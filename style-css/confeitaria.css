@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* 
+ #EDB4B4
+ #EBA7A7
+ #D4A1A1
+ #CC7777
+ #CD8162
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body,html{
+    background-color: #EBA7A7;
+}
+
+header{
+    display: flex;
+    justify-content: space-between; 
+    background-color: #700101cd;
+    align-items: center;
+    height: 57px;
+    color: aliceblue;
+}
+
+.navegação{
+
+}
+
+.logo{
+    background-color: aliceblue;
+}
+
+ul{
+    margin: 10px;
+
+}
+
+
+
