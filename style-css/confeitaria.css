@@ -23,11 +23,15 @@ header{
     background-color: whitesmoke;
     height: 275px;
 }
-.img{
+.imge{
     background-color: brown;
     height: 170px;
     width: 170px;
     border-radius: 100px;
+    background-image: url(../pexels-tim-douglas-6205509.jpg);
+    background-repeat: no-repeat;
+    background-position: center ,center;
+    background-size: cover;
 }
 
 main{
@@ -45,6 +49,8 @@ h1{
 .txt{
   text-align: center;
   padding: 15px;
+
+  
 }
 
 .botão{
@@ -68,21 +74,28 @@ a{
 }
 
 .contato{
-    background-color:#F27D72;
-    width: 300px;
+    background-color:#f36e62;
+    width: 203px;
     padding: 40px;
-    margin-top: 25px;
+    margin-top: 40px;
 }
 .ligue{
     background-color: aliceblue;
     padding:18px;
     border-radius: 5px;
     width: 180px;
-    margin-left: 40px;
 }
 
 .lg{
     margin-bottom: 10px;
+}
+
+.num{
+    background-color: #F27D72;
+    padding: 5px;
+    width: 110px;
+    color: aliceblue;
+    border-radius: 30px;
 }
 
 .log{
@@ -91,10 +104,18 @@ a{
     padding:18px;
     border-radius: 5px;
     width: 180px;
-    margin-left: 40px;
+    margin-left: px;
 }
 .lc{
     margin-bottom: 10px;
+}
+
+.l{
+    background-color: #F27D72;
+    padding: 5px;
+    width: 160px;
+    color: aliceblue;
+    border-radius: 30px;
 }
 
 .horas{
@@ -103,11 +124,19 @@ a{
     padding:18px;
     border-radius: 5px;
     width: 180px;
-    margin-left: 40px;
+    margin-left: px;
 }
 
 .hr{
     margin-bottom: 10px;
+}
+
+.dia{
+    background-color: #F27D72;
+    padding: 5px;
+    width: 130px;
+    color: aliceblue;
+    border-radius: 30px;
 }
 
 footer{
