@@ -69,7 +69,7 @@ a{
 
 .contato{
     background-color:#f27296;
-    width: 203px;
+    width: 400px;
     padding: 40px;
     margin-top: 40px;
 }
@@ -79,6 +79,7 @@ a{
     padding:18px;
     border-radius: 5px;
     width: 180px;
+    margin-left: 90px;
 }
 
 .tt{
@@ -119,7 +120,7 @@ a{
     padding:18px;
     border-radius: 5px;
     width: 180px;
-    margin-left: px;
+    margin-left: 90px;
 }
 .lc{
     margin-bottom: 10px;
@@ -139,7 +140,7 @@ a{
     padding:18px;
     border-radius: 5px;
     width: 180px;
-    margin-left: px;
+    margin-left: 90px;
 }
 
 .hr{
