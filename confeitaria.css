@@ -216,3 +216,7 @@ label{
     background-color: #7f5248;
     border: 2px solid #F2CAA7 ;
 }
+
+.material-symbols-outlined{
+    display: inline;
+}
