@@ -24,14 +24,8 @@ header{
     height: 275px;
 }
 .imge{
-    background-color: brown;
-    height: 170px;
-    width: 170px;
     border-radius: 100px;
-    background-image: url(../pexels-tim-douglas-6205509.jpg);
-    background-repeat: no-repeat;
-    background-position: center ,center;
-    background-size: cover;
+    width: 200px;
 }
 
 main{
@@ -74,28 +68,33 @@ a{
 }
 
 .contato{
-    background-color:#f36e62;
+    background-color:#f27296;
     width: 203px;
     padding: 40px;
     margin-top: 40px;
 }
 .ligue{
+    display: inline-block;
     background-color: aliceblue;
     padding:18px;
     border-radius: 5px;
     width: 180px;
 }
-
+.telefone{
+    display: inline-block;
+}
 .lg{
     margin-bottom: 10px;
 }
 
+
 .num{
-    background-color: #F27D72;
-    padding: 5px;
+    background-color: #f27296f7;
+    padding: 8px;
     width: 110px;
     color: aliceblue;
-    border-radius: 30px;
+    border-radius: 5px;
+    font-size: 0.9rem;
 }
 
 .log{
@@ -111,11 +110,11 @@ a{
 }
 
 .l{
-    background-color: #F27D72;
-    padding: 5px;
+    background-color:#f27296f7;
+    padding: 8px;
     width: 160px;
-    color: aliceblue;
-    border-radius: 30px;
+    color: aliceblue ;
+    border-radius: 5px;
 }
 
 .horas{
@@ -132,11 +131,11 @@ a{
 }
 
 .dia{
-    background-color: #F27D72;
-    padding: 5px;
+    background-color: #f27296f7;
+    padding: 8px;
     width: 130px;
     color: aliceblue;
-    border-radius: 30px;
+    border-radius: 5px;
 }
 
 footer{
