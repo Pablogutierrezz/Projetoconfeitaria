@@ -80,6 +80,22 @@ a{
     border-radius: 5px;
     width: 180px;
 }
+
+.tt{
+    font-size: 1.3rem;
+}
+
+.zap{
+    width: 50px;
+   padding: 8px;
+   margin-left: 15px;
+}
+.ista{
+    margin-left: 5px;
+    width: 50px;
+    padding: 8px;
+    
+}
 .telefone{
     display: inline-block;
 }
@@ -153,11 +169,16 @@ footer{
 span{
     color: #f27296;
 }
+
+label{
+    padding: 10px;
+}
 .name{
     border: none;
     padding: 7px;
     width: 240px;
     border-radius: 2px;
+    margin-left: 13px; 
 }
 
 .email{
@@ -165,11 +186,20 @@ span{
     padding: 8px;
     border-radius: 2px;
     width: 240px;
+    margin-left: 13px; 
+}
+
+.sus{
+    border: none;
+    padding: 8px;
+    border-radius: 2px;
+    width: 240px;
+    margin-left: 13px; 
 }
 
 .botão2{
     margin-top: 15px;
-    margin-left: 80px;
+    margin-left: 90px;
     display: block;
     background-color: #f27296;
     padding: 10px;
